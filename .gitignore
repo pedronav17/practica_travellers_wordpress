@@ -1,0 +1,17 @@
+# Configuración de WordPress
+wp-config.php
+
+# Archivos temporales
+*.log
+
+# Cachés
+wp-content/cache/
+wp-content/uploads/cache/
+
+# Copias de seguridad generadas por plugins
+wp-content/backup*
+wp-content/updraft/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
