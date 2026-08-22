@@ -1,16 +1,20 @@
-# Configuración de WordPress
+# ConfiguraciÃ³n de WordPress
 wp-config.php
+wp-config-*.php
 
 # Archivos temporales
 *.log
 
-# Cachés
+# CachÃ©s
 wp-content/cache/
 wp-content/uploads/cache/
 
 # Copias de seguridad generadas por plugins
 wp-content/backup*
 wp-content/updraft/
+
+# Archivos generados por plugins
+wp-content/uploads/wpforms/
 
 # Sistema operativo
 .DS_Store
